@@ -2,7 +2,7 @@
   <img width="612" height="240" src="https://i.imgur.com/3Q1ucea.png"> 
 </p>
 
-## 👋 About us
+## 👋
 Hey! I'm Evan, a Games Designer/Developer.
 
 ## 👉 Get Involved
