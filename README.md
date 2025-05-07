@@ -1,24 +1,15 @@
-<h1 align="center">Hi 👋, I'm Evan</h1>
-<h3 align="center">A Games Designer/Developer from London, UK.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=evanballl&label=Profile%20views&color=0e75b6&style=flat" alt="evanballl" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evanballl" alt="evanballl" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/_evanvfx" target="blank"><img src="https://img.shields.io/twitter/follow/_evanvfx?logo=twitter&style=for-the-badge" alt="_evanvfx" /></a> </p>
-
-- 🔭 I’m currently working on **Project Nexus**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_evanvfx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_evanvfx" height="30" width="40" /></a>
+<p align="center">
+  <img width="612" height="240" src="https://i.imgur.com/3Q1ucea.png"> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+## 👋 About us
+Hey! I'm Evan, a Games Designer/Developer.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evanballl&show_icons=true&locale=en&layout=compact" alt="evanballl" /></p>
+## 👉 Get Involved
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8JKrswtngG)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_evanvfx)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evanballl&show_icons=true&locale=en" alt="evanballl" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evanballl&" alt="evanballl" /></p>
+## 👨‍💻 Statistics
+<p align="center">
+ <a href=https://ko-fi.com/nexus><img width="420" src=https://github-readme-stats.vercel.app/api?username=evanballl&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
+</p>
