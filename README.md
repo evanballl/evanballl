@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="612" height="240" src=""> 
-</p>
-
 ## 👋
 Hey! I'm Evan, a Games Designer/Developer.
 
